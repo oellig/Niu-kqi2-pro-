@@ -1,0 +1,12 @@
+{
+  "version": "220718-v45a20",
+  "force": true,
+  "files": [
+    {
+      "type": "mcu",
+      "url": "https://github.com/Eilan1221/firmware/OTA_NIU_K2E13323_45KPH_Pro_220718.bin",
+      "md5": "REPLACE_WITH_ACTUAL_MD5_HASH",
+      "name": "OTA_NIU_K2E13323_45KPH_Pro_220718.bin"
+    }
+  ]
+}
